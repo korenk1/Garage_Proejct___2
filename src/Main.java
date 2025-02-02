@@ -1,4 +1,4 @@
-1import interfaceGarage.MainGarage;
+import interfaceGarage.MainGarage;
 
 
 import java.util.HashMap;
